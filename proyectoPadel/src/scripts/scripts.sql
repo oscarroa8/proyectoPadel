@@ -29,8 +29,8 @@ create table cliente(
     nombre text,
     apellido1 text,
     apellido2 text,
-    email text,
-    contrasena text
+    -- email text,
+    -- contrasena text
 );
 
 create table cliente_pista(
