@@ -1,0 +1,2 @@
+esta carperta contiene informacion relativa a la comunicacion con la base de datos
+y toda la gestion relacionada con las funciones de la aplicacion
