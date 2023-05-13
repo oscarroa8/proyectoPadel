@@ -1,6 +1,7 @@
 import { Time } from "@angular/common";
 
 export interface Usuario{
+  idUsuario: Number;
   nombre:String;
   apellido1:String;
   apellido2:String;
@@ -16,6 +17,7 @@ export interface Cliente{
     // pwd:string;  
   }
   export interface Pista{
+    idPista: Number;
     nombre: String;
     material:String;
     precio:Number;

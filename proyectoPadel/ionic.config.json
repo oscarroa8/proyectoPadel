@@ -1,5 +1,7 @@
 {
   "name": "proyectoPadel",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
